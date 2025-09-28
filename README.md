@@ -21,8 +21,8 @@ This repository contains the results of our work conducted for the main project,
 - the Final Interface Application code.
 ## Authors
 
-- [@AnkitJohnAbraham](https://github.com/AnkitJAbraham)
-- Adithya M
+- Ankit John Abraham [@AnkitJohnAbraham](https://github.com/AnkitJAbraham)
+- Adithya M - [@Raptor-077](https://github.com/Raptor-077)
 - Ameen Mohammed
 - Ajith Bobby
 - Harikrishnan M
